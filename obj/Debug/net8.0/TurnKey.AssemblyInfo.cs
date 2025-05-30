@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TurnKey")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cd8945f323a8bb4c96777ac9b5b9ac4b13b458b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TurnKey")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TurnKey")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

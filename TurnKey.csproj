@@ -13,8 +13,11 @@
     <None Remove="wwwroot\img\**" />
   </ItemGroup>
 
-  <ItemGroup>
+  <!--<ItemGroup>
     <_GlobalJsonStartingDir Remove="wwwroot\img\**" />
-  </ItemGroup>
+  </ItemGroup>-->
+	<ItemGroup>
+		<Content Include="wwwroot\**\*" CopyToPublishDirectory="PreserveNewest" />
+	</ItemGroup>
 
 </Project>
